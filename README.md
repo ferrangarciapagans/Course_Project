@@ -27,7 +27,7 @@ This script:
 * Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 * Store this data set into ./procesed_data/secondDataset.txt
 
-## Script Task_1
+"## Script Task_1
 ##########################################################################
 # TASK 1: Merges the training and the test sets to create one data set.  #
 #                                                                        #
@@ -35,7 +35,7 @@ This script:
 # labels and subjects                                                    #
 ##########################################################################
 
-# Initialize the working directory
+# Initialize the working directory"
 setwd("~/DS Specialization/GetData/Project/UCI HAR Dataset")
 
 # STEPS TO COMPLETE TASK 1:
